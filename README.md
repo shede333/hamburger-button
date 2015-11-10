@@ -3,6 +3,7 @@
 
 
 ![image](/image/hamburger-button.gif)
+![image](image/hamburger-button.gif)
 
 I wrote a [blog post](http://robb.is/working-on/a-hamburger-button-transition/)
 on how this works. Inspired by a [dribbble shot by
